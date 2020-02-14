@@ -1,0 +1,2 @@
+Sample	FastQC_mqc-generalstats-fastqc-percent_duplicates	FastQC_mqc-generalstats-fastqc-percent_gc	FastQC_mqc-generalstats-fastqc-avg_sequence_length	FastQC_mqc-generalstats-fastqc-percent_fails	FastQC_mqc-generalstats-fastqc-total_sequences
+HG00251.unmapped.ILLUMINA.bwa.GBR.low_coverage.20101123	96.59736160885694	42.0	90.4318163523671	45.45454545454545	49393852.0

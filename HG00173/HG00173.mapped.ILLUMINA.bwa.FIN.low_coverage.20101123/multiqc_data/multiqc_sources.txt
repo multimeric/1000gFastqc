@@ -1,0 +1,2 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	HG00173.mapped.ILLUMINA.bwa.FIN.low_coverage.20101123	/data/HG00173.mapped.ILLUMINA.bwa.FIN.low_coverage.20101123_fastqc.zip
